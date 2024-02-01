@@ -1,0 +1,7 @@
+header {
+   nav {
+      div > ul li:not(:last-child) {
+         padding-left: 1em;
+      }
+   }
+}
