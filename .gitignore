@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 # dist | push it because i wanna use the bundle
-dist-ssr
+# dist-ssr
 *.local
 
 # Editor directories and files

@@ -7,6 +7,7 @@ import NotFound from './pages/NotFound';
 import Services from './pages/Services';
 import Layout from './components/Layout';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.css';
 
 const App = () => {
    return ( 
